@@ -93,14 +93,14 @@ Polytechnical School, Oran
 -----------------------------------------------------------------------------------------------------------  
 | Thing              | Link        |
 | :-------------------: | :-----------: |
-| Bilamo robot | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
-| Bilamo robot | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
-| Doccuments machine | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
-| Portal of power | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
-| Kinect | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
-| Royal circle | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
-| Line follower | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
-| Royal circle | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
+| Bilamo robot | [Video](youtube link) |
+| Bilamo robot | [Video](youtube link) |
+| Doccuments machine | [Video](youtube link) |
+| Portal of power | [Video](youtube link) |
+| Kinect | [Video](youtube link) |
+| Royal circle | [Video](youtube link) |
+| Line follower | [Video](youtube link) |
+| Royal circle | [Video](youtube link) |
 
 # Papers, Seminary, and Reports
 -----------------------------------------------------------------------------------------------------------
