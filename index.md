@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="media/me1.png">
+<img src="me1.png">
 </p>
 
 # Personal webpage
