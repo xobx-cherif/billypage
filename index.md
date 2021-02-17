@@ -75,6 +75,7 @@ Polytechnical School, Oran
 
 # Teaching Experiences
 -----------------------------------------------------------------------------------------------------------
+As a phd student i was in charge or codesign teaching activity at INSA University. Codesign is fun going through the whole process of profiling your system till the partitioning is an elightment. The purpose of this course is to give a brief view about hybrid socs, hardware acceleration, and software/hardware development. This field allows you to explore different architecture artistically from placing your hardware design to optimizing your software for custom applications.
 
 | Course | Class | Contract hours |
 |:-------------------:|:-----------:|:-----------:|
@@ -87,7 +88,8 @@ Polytechnical School, Oran
 -----------------------------------------------------------------------------------------------------------
 
 # Fun projects
------------------------------------------------------------------------------------------------------------  
+----------------------------------------------------------------------------------------------------------- 
+Being grown in maker environments i tend to spend most of my free time working on personal projects and learning new stuffs. 
 
 | Thing              | Link        |
 | :-------------------: | :-----------: |
@@ -108,6 +110,8 @@ Polytechnical School, Oran
 
 # Hobbies
 -----------------------------------------------------------------------------------------------------------
+Music is some sort of a universal language that intrigate your feeling without even learning to react to it.
+
 *
 
 *
