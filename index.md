@@ -1,8 +1,7 @@
+# Personal Webpage
 <p align="center"> 
 <img src="me1.png">
 </p>
-
-# Personal webpage
 
   * CHERIF Bilel
   * email : bilelcherifdz@gmail.com, bcherif@laas.fr
