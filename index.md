@@ -30,7 +30,7 @@
 2. Work hard for your goals.
 3. Code at home and hack Some devices.
 4. Share and geek talk.
-5. Play Music
+5. Play Music.
 
 Bilel@me:~/brain/knowledge$ ./share
 
