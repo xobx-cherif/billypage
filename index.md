@@ -89,14 +89,14 @@ Polytechnical School, Oran
 -----------------------------------------------------------------------------------------------------------  
 | Thing              | Link        |
 | :-------------------: | :-----------: |
-| Bilamo robot | [Video](youtube link) |
-| Bilamo robot | [Video](youtube link) |
-| Doccuments machine | [Video](youtube link) |
-| Portal of power | [Video](youtube link) |
-| Kinect | [Video](youtube link) |
-| Royal circle | [Video](youtube link) |
-| Line follower | [Video](youtube link) |
-| Royal circle | [Video](youtube link) |
+| Bilamo robot | [Video](https://www.youtube.com/) |
+| Bilamo robot | [Video](https://www.youtube.com/) |
+| Doccuments machine | [Video](https://www.youtube.com/) |
+| Portal of power | [Video](https://www.youtube.com/) |
+| Kinect | [Video](https://www.youtube.com/) |
+| Royal circle | [Video](https://www.youtube.com/) |
+| Line follower | [Video](https://www.youtube.com/) |
+| Royal circle | [Video](https://www.youtube.com/) |
 
 # Papers, Seminary, and Reports
 -----------------------------------------------------------------------------------------------------------
