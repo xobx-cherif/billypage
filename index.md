@@ -77,6 +77,8 @@ Polytechnical School, Oran
 -----------------------------------------------------------------------------------------------------------
 As a phd student i was in charge or codesign teaching activity at INSA University. Codesign is fun going through the whole process of profiling your system till the partitioning is an elightment. The purpose of this course is to give a brief view about hybrid socs, hardware acceleration, and software/hardware development. This field allows you to explore different architecture artistically from placing your hardware design to optimizing your software for custom applications.
 
+[Course page](https://xobx-cherif.github.io/zynq_be/)
+
 | Course | Class | Contract hours |
 |:-------------------:|:-----------:|:-----------:|
 | Bilamo robot |		|		|
