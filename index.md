@@ -82,9 +82,9 @@ As a phd student i was in charge or codesign teaching activity at INSA Universit
 
 | Course | Class | Contract hours |
 |:-------------------:|:-----------:|:-----------:|
-| Bilamo robot |		|		|
-| Bilamo robot |		|		|
-| Doccuments machine |		|		|
+| dimensioning and evaluation of architectures |	Course/Tutorials/Project	|	64h	|
+| dimensioning and evaluation of architectures |	Course/Tutorials/Project	|	64h	|
+| dimensioning and evaluation of architectures |	Course/Tutorials/Project	|	64h	|
 
 
 # Technical Experiences
