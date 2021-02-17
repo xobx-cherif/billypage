@@ -1,37 +1,144 @@
-## Welcome to GitHub Pages
+<p align="center"> 
+<img src="media/me1.png">
+</p>
 
-You can use the [editor on GitHub](https://github.com/xobx-cherif/billypage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Personal webpage
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  * CHERIF Bilel
+  * email : bilelcherifdz@gmail.com, bcherif@laas.fr
 
-### Markdown
+```c                                                                 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+╔══╗
+║═╦╬╦═╦╗
+║╔╣║║║║║
+╚╝╚═╩╩═╝ 
+──────────────────────────────────────────────────────────────────────────
+──────────────██████──██████─██████████████─████████──████████────────────
+──────────────██░░██──██░░██─██░░░░░░░░░░██─██░░░░██──██░░░░██────────────
+──────────────██░░██──██░░██─██░░██████████─████░░██──██░░████────────────
+──────────────██░░██──██░░██─██░░██───────────██░░░░██░░░░██──────────────
+──────────────██░░██████░░██─██░░██████████───████░░░░░░████──────────────
+──────────────██░░░░░░░░░░██─██░░░░░░░░░░██─────██░░░░░░██────────────────
+──────────────██░░██████░░██─██░░██████████───████░░░░░░████──────────────
+──────────────██░░██──██░░██─██░░██───────────██░░░░██░░░░██──────────────
+──────────────██░░██──██░░██─██░░██████████─████░░██──██░░████────────────
+──────────────██░░██──██░░██─██░░░░░░░░░░██─██░░░░██──██░░░░██────────────
+──────────────██████──██████─██████████████─████████──████████────────────
+──────────────────────────────────────────────────────────────────────────
+==========================================================================
+| ---------------------------Spread knowledge----------------------------|
+|------------------------------------------------------- Try this at home|
+==========================================================================
+1. Have fun doing what you're doing.
+2. Work hard for your goals.
+3. Code at home and hack Some devices.
+4. Share and geek talk.
 
-```markdown
-Syntax highlighted code block
+Bilel@me:~/brain/knowledge$ ./share
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+# Academic Degrees
+* [Since 2017] PhD student at LAAS-CNRS
+Thesis: Devellopement of mobile cooperative reliable application
+Case of study: Cooperative collision warning application for connected vehicle
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* [2016] Master degree in embedded and micro-embedded Systems
+Paul Sabatier university, Toulouse
 
-### Jekyll Themes
+* [2016] Research master degree in electronics and embedded systems
+Polytechnical School, Oran
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xobx-cherif/billypage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* [2015] Engineer grade in electronics and embedded systems
+Polytechnical School, Oran 
 
-### Support or Contact
+* [2015] FIE: Entrepreneurial Innovation Training
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Internships
+
+* LAAS-CNRS (Research Lab)
+* Sarl FCMCT (polysterene shaping company)
+* Algeria Telecom (telco company)
+* GRTE (electricity distribution company)
+
+# Projects
+
+* Docker based Mobile Edge Computing test bed
+* Fault injection based cubesat testing platform
+* Vision based tracking robot
+* RF based obstacle avoidance robot
+
+# Research Activities
+
+* Software testing
+
+* Connected vehicles
+
+* Mobile edge computing
+
+# Teaching Experiences
+
+| Course | Class | Contract hours |
+|:-------------------:|:-----------:|:-----------:|
+| Bilamo robot |		|		|
+| Bilamo robot |		|		|
+| Doccuments machine |		|		|
+
+
+# Technical Experiences
+
+# Fun projects
+  
+| Thing              | Link        |
+| :-------------------: | :-----------: |
+| Bilamo robot | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
+| Bilamo robot | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
+| Doccuments machine | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
+| Portal of power | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
+| Kinect | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
+| Royal circle | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
+| Line follower | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
+| Royal circle | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
+
+# Papers, Seminary, and Reports
+
+
+# Activities
+
+
+# Hobbies
+
+*
+
+*
+
+*
+
+# Philosophy
+
+
+# Writeups
+
+  ```c
+  
+ .----------------.  .----------------.  .----------------.  .----------------. 
+| .--------------. || .--------------. || .--------------. || .--------------. |
+| |  _______     | || |     ____     | || |     ______   | || |  ___  ____   | |
+| | |_   __ \    | || |   .'    `.   | || |   .' ___  |  | || | |_  ||_  _|  | |
+| |   | |__) |   | || |  /  .--.  \  | || |  / .'   \_|  | || |   | |_/ /    | |
+| |   |  __ /    | || |  | |    | |  | || |  | |         | || |   |  __'.    | |
+| |  _| |  \ \_  | || |  \  `--'  /  | || |  \ `.___.'\  | || |  _| |  \ \_  | |
+| | |____| |___| | || |   `.____.'   | || |   `._____.'  | || | |____||____| | |
+| |              | || |              | || |              | || |              | |
+| '--------------' || '--------------' || '--------------' || '--------------' |
+ '----------------'  '----------------'  '----------------'  '----------------' 
+     
+===============================================================================
+| ----------------------------------Ba byee-----------------------------------|
+|---------------------------------------------------------------- Good luck!!!|
+===============================================================================
+
+Bilel@me:~/brain/knowledge$ ./bilel
+Bilel@me:~/brain/knowledge$ Press any key to rock and roll: 
+
+```
