@@ -39,6 +39,7 @@ Bilel@me:~/brain/knowledge$ ./share
 
 ```
 # Academic Degrees
+-----------------------------------------------------------------------------------------------------------
 * [Since 2017] PhD student at LAAS-CNRS
 Thesis: Devellopement of mobile cooperative reliable application
 Case of study: Cooperative collision warning application for connected vehicle
@@ -55,21 +56,21 @@ Polytechnical School, Oran
 * [2015] FIE: Entrepreneurial Innovation Training
 
 # Internships
-
+-----------------------------------------------------------------------------------------------------------
 * LAAS-CNRS (Research Lab)
 * Sarl FCMCT (polysterene shaping company)
 * Algeria Telecom (telco company)
 * GRTE (electricity distribution company)
 
 # Projects
-
+-----------------------------------------------------------------------------------------------------------
 * Docker based Mobile Edge Computing test bed
 * Fault injection based cubesat testing platform
 * Vision based tracking robot
 * RF based obstacle avoidance robot
 
 # Research Activities
-
+-----------------------------------------------------------------------------------------------------------
 * Software testing
 
 * Connected vehicles
@@ -77,7 +78,7 @@ Polytechnical School, Oran
 * Mobile edge computing
 
 # Teaching Experiences
-
+-----------------------------------------------------------------------------------------------------------
 | Course | Class | Contract hours |
 |:-------------------:|:-----------:|:-----------:|
 | Bilamo robot |		|		|
@@ -86,9 +87,10 @@ Polytechnical School, Oran
 
 
 # Technical Experiences
+-----------------------------------------------------------------------------------------------------------
 
 # Fun projects
-  
+-----------------------------------------------------------------------------------------------------------  
 | Thing              | Link        |
 | :-------------------: | :-----------: |
 | Bilamo robot | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
@@ -101,13 +103,13 @@ Polytechnical School, Oran
 | Royal circle | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](youtube link) |
 
 # Papers, Seminary, and Reports
-
+-----------------------------------------------------------------------------------------------------------
 
 # Activities
-
+-----------------------------------------------------------------------------------------------------------
 
 # Hobbies
-
+-----------------------------------------------------------------------------------------------------------
 *
 
 *
@@ -115,9 +117,10 @@ Polytechnical School, Oran
 *
 
 # Philosophy
-
+-----------------------------------------------------------------------------------------------------------
 
 # Writeups
+-----------------------------------------------------------------------------------------------------------
 
   ```c
   
