@@ -110,6 +110,18 @@ Being grown in maker environments i tend to spend most of my free time working o
 
 # Papers, Seminary, and Reports
 -----------------------------------------------------------------------------------------------------------
+## Papers
+* Bilel CHERIF, Pascal BERTHOU, Yann LABIT 2019. Testbed for Multi-access Edge Computing V2X applications prototyping and evaluation, 10th EMBEDDED REAL TIME SYSTEMS European Congress (ERTS 2020), Toulouse , Long Paper
+## Seminary
+* Continental - LAAS-CNRS 2017 Seminary
+* Continental - LAAS-CNRS 2018 Seminary
+* Continental - LAAS-CNRS 2019 Seminary
+* SARA 2018 Seminary
+## Technical Reports
+* Continental 2017 H2020 Project Report
+* Continental 2018 H2020 Project Report
+* Continental 2019 H2020 Project Report
+
 
 # Activities
 -----------------------------------------------------------------------------------------------------------
