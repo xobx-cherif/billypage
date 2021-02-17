@@ -55,6 +55,7 @@ Polytechnical School, Oran
 # Internships
 -----------------------------------------------------------------------------------------------------------
 * LAAS-CNRS (Research Lab)
+Microsatellite test platform (Cubesat type)
 * Sarl FCMCT (polysterene shaping company)
 * Algeria Telecom (telco company)
 * GRTE (electricity distribution company)
