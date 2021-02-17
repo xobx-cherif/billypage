@@ -4,6 +4,8 @@
 <img src="me1.png">
 </p>
 
+This is sort of a README file for myself.
+
   * CHERIF Bilel
   * email : bilelcherifdz@gmail.com, bcherif@laas.fr
 
