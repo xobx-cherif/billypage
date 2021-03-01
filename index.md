@@ -103,8 +103,9 @@ I identified three types of faults, mainly those faults that can occur because o
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img width="267" alt="screen shot 1" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube1.png">|  <img width="267" alt="screen shot 2" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube2.png">|<img width="267" alt="screen shot 3" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube3.png">|
-|<img width="267" alt="screen shot 4" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube4.png">  |  <img width="267" alt="screen shot 5" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cub5.png">|<img width="267" alt="screen shot 6" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube6.png">|
+|<img width="267" alt="screen shot 1" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube1.png">|  <img width="267" alt="screen shot 2" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube2.png">|
+|<img width="267" alt="screen shot 3" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube3.png">|<img width="267" alt="screen shot 4" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube4.png">|
+|<img width="267" alt="screen shot 5" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cub5.png">|<img width="267" alt="screen shot 6" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube6.png">|
 |<img width="267" alt="screen shot 7" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cubesat.png">  |
 
 My work was concretized by some tests for two types of protocols (The I2C protocol and the CSP protocol). The results obtained show that the native I2C protocol is not too well adapted to projection with simulated radiation effects.
@@ -112,12 +113,12 @@ My work was concretized by some tests for two types of protocols (The I2C protoc
 ## Mobile edge computing for connected vehicles
 My thesis topic is around the development of a reliable cooperative mobile application (connected automotive case study). The subject has evolved through several changes from decentralized communication technology to mobile edge computing (MEC). My research work has been focused on the study of the application deployment infrastructure for the connected automobile up to the different effects of the global system characteristic (deployment platform and vehicle). One of the important characteristic of this type of systems is the high mobility of the nodes (vehicle). As illustrated in Figure 1, the division of an application into microservices makes the application much more flexible in terms of deployment and relocation. The mobility factor requires special treatment of the application by the deployment platform. The design of such an application requires an explicit inclusion of vehicle mobility. The use of a scenario modeling language (TERMOS) was part of my initial thesis topic.
 
-<img width="300" alt="screen shot 1" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/fig2.png">
+<img width="600" alt="screen shot 1" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/fig2.png">
 **Figure.1**
 
 The research conducted during my thesis proved that the microservice architecture is the most adapted to this type of system. Primary tests through a simulation/emulation platform have shown that this architecture partially meets the constraint of high mobility (without taking into account the aspect of time constraints). These primary tests completely neglect all aspects of the network propagation model.
 
-<img width="300" alt="screen shot 1" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/fig1.png">
+<img width="600" alt="screen shot 1" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/fig1.png">
 **Figure.2**
 
 The use of a scenario language with implicit mobility facilitates the representation of the different properties of this type of system. Figure 2 illustrates a standard distribution model for this type of application as a microservice. Experiments with this type of architecture show that cutting-edge criteria must be respected to ensure proper operation, maintenance and provisioning of the application.
