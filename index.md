@@ -116,10 +116,12 @@ My thesis topic is around the development of a reliable cooperative mobile appli
 <img width="600" alt="screen shot 1" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/fig2.png">
 Figure.1
 
+
 The research conducted during my thesis proved that the microservice architecture is the most adapted to this type of system. Primary tests through a simulation/emulation platform have shown that this architecture partially meets the constraint of high mobility (without taking into account the aspect of time constraints). These primary tests completely neglect all aspects of the network propagation model.
 
 <img width="600" alt="screen shot 1" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/fig1.png">
 Figure.2
+
 
 The use of a scenario language with implicit mobility facilitates the representation of the different properties of this type of system. Figure 2 illustrates a standard distribution model for this type of application as a microservice. Experiments with this type of architecture show that cutting-edge criteria must be respected to ensure proper operation, maintenance and provisioning of the application.
 
