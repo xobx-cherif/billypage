@@ -103,9 +103,9 @@ I identified three types of faults, mainly those faults that can occur because o
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 1" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube1.png">|  <img width="1604" alt="screen shot 2" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube2.png">|<img width="1604" alt="screen shot 3" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube3.png">|
-|<img width="1604" alt="screen shot 4" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube4.png">  |  <img width="1604" alt="screen shot 5" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cub5.png">|<img width="1604" alt="screen shot 6" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube6.png">|
-|<img width="1604" alt="screen shot 7" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cubesat.png">  |
+|<img width="267" alt="screen shot 1" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube1.png">|  <img width="267" alt="screen shot 2" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube2.png">|<img width="267" alt="screen shot 3" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube3.png">|
+|<img width="267" alt="screen shot 4" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube4.png">  |  <img width="267" alt="screen shot 5" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cub5.png">|<img width="267" alt="screen shot 6" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube6.png">|
+|<img width="267" alt="screen shot 7" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cubesat.png">  |
 
 My work was concretized by some tests for two types of protocols (The I2C protocol and the CSP protocol). The results obtained show that the native I2C protocol is not too well adapted to projection with simulated radiation effects.
 
