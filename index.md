@@ -101,8 +101,8 @@ During my internship at LAAS-CNRS I studied the different test techniques for a 
 The goal of my internship was to realize a test platform for this type of miniature satellites. I realized a prototype of a test platform which is based on the technique of fault injection and sniffing of the different packets by drawing inspiration from other research work in different contexts. My research led me to focus on the different faults that can be caused by radiation in a space environment.
 I identified three types of faults, mainly those faults that can occur because of physical perturbations on communication protocols. An implementation of the platform has been done with the nodejs. This implementation offers multiple choices of test in the form of a single test or several successive tests in the form of a text file. Unfortunately I didn't have access to a satellite motherboard, I used a Discovery board to simulate the communication with an OBC of a cubesat. The whole test platform was implemented on a raspberry pi board.
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
+| | |
+|:-------------------------:|:-------------------------:|
 |<img width="267" alt="screen shot 1" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube1.png">|  <img width="267" alt="screen shot 2" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube2.png">|<img width="267" alt="screen shot 3" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube3.png">|
 |<img width="267" alt="screen shot 4" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube4.png">  |  <img width="267" alt="screen shot 5" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cub5.png">|<img width="267" alt="screen shot 6" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cube6.png">|
 |<img width="267" alt="screen shot 7" src="https://raw.githubusercontent.com/xobx-cherif/billypage/main/cubesat.png">  |
