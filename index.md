@@ -59,8 +59,11 @@ Polytechnical School, Oran
 * LAAS-CNRS (Research Lab)
 Microsatellite test platform (Cubesat type)
 * Sarl FCMCT (polysterene shaping company)
+Polysterene CNC machine
 * Algeria Telecom (telco company)
+Cable maintenance optimization.
 * GRTE (electricity distribution company)
+Team management and chat tool.
 
 # Projects
 -----------------------------------------------------------------------------------------------------------
@@ -90,8 +93,32 @@ As a phd student i was in charge or codesign teaching activity at INSA Universit
 | dimensioning and evaluation of architectures |	Course/Tutorials/Project	|	64h	|
 
 
-# Technical Experiences
+# Main Projects
 -----------------------------------------------------------------------------------------------------------
+## Cubesat project
+During my internship at LAAS-CNRS I studied the different test techniques for a cubesat type satellite. I realized a test platform for this type of satellite.
+
+The goal of my internship was to realize a test platform for this type of miniature satellites. I realized a prototype of a test platform which is based on the technique of fault injection and sniffing of the different packets by drawing inspiration from other research work in different contexts. My research led me to focus on the different faults that can be caused by radiation in a space environment.
+I identified three types of faults, mainly those faults that can occur because of physical perturbations on communication protocols. An implementation of the platform has been done with the nodejs. This implementation offers multiple choices of test in the form of a single test or several successive tests in the form of a text file. Unfortunately I didn't have access to a satellite motherboard, I used a Discovery board to simulate the communication with an OBC of a cubesat. The whole test platform was implemented on a raspberry pi board.
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+
+My work was concretized by some tests for two types of protocols (The I2C protocol and the CSP protocol). The results obtained show that the native I2C protocol is not too well adapted to projection with simulated radiation effects.
+
+## Mobile edge computing for connected vehicles
+My thesis topic is around the development of a reliable cooperative mobile application (connected automotive case study). The subject has evolved through several changes from decentralized communication technology to mobile edge computing (MEC). My research work has been focused on the study of the application deployment infrastructure for the connected automobile up to the different effects of the global system characteristic (deployment platform and vehicle). One of the important characteristic of this type of systems is the high mobility of the nodes (vehicle). As illustrated in Figure 1, the division of an application into microservices makes the application much more flexible in terms of deployment and relocation. The mobility factor requires special treatment of the application by the deployment platform. The design of such an application requires an explicit inclusion of vehicle mobility. The use of a scenario modeling language (TERMOS) was part of my initial thesis topic.
+
+
+
+The research conducted during my thesis proved that the microservice architecture is the most adapted to this type of system. Primary tests through a simulation/emulation platform have shown that this architecture partially meets the constraint of high mobility (without taking into account the aspect of time constraints). These primary tests completely neglect all aspects of the network propagation model.
+
+
+
+The use of a scenario language with implicit mobility facilitates the representation of the different properties of this type of system. Figure 2 illustrates a standard distribution model for this type of application as a microservice. Experiments with this type of architecture show that cutting-edge criteria must be respected to ensure proper operation, maintenance and provisioning of the application.
 
 # Fun projects
 ----------------------------------------------------------------------------------------------------------- 
@@ -99,13 +126,13 @@ Being grown in maker environments i tend to spend most of my free time working o
 
 | Thing              | Link        |
 | :-------------------: | :-----------: |
-| Bilamo robot | [Video](https://www.youtube.com/) |
-| Bilamo robot | [Video](https://www.youtube.com/) |
-| Doccuments machine | [Video](https://www.youtube.com/) |
+| Bilamo robot | [Video](https://youtu.be/7m5QN5-YHf4) |
+| Bilamo robot | [Video](https://youtu.be/ccX16GOuImU) |
+| Doccuments machine | [Video](https://youtu.be/iQxdYZjNuMo) |
 | Portal of power | [Video](https://www.youtube.com/) |
 | Kinect | [Video](https://www.youtube.com/) |
 | Royal circle | [Video](https://www.youtube.com/) |
-| Line follower | [Video](https://www.youtube.com/) |
+| Line follower | [Video](https://youtu.be/FCZV3j5T98o) |
 | Royal circle | [Video](https://www.youtube.com/) |
 
 # Papers, Seminary, and Reports
@@ -130,11 +157,15 @@ Being grown in maker environments i tend to spend most of my free time working o
 -----------------------------------------------------------------------------------------------------------
 Music is some sort of a universal language that intrigate your feeling without even learning to react to it.
 
-*
+* Electronic gadgets hack
 
-*
+* Coding projects
 
-*
+* Music composition
+
+* Playing guitar
+
+* Swimming
 
 # Philosophy
 -----------------------------------------------------------------------------------------------------------
