@@ -39,7 +39,7 @@ Bilel@me:~/brain/knowledge$ ./share
 ```
 # Academic Degrees
 -----------------------------------------------------------------------------------------------------------
-* [Since 2017] PhD student at LAAS-CNRS
+* [Since 2017] Embedded  system engineer at LAAS-CNRS
 Thesis: Devellopement of mobile cooperative reliable application
 Case of study: Cooperative collision warning application for connected vehicle
 
